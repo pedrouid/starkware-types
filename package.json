@@ -1,7 +1,7 @@
 {
   "name": "starkware-types",
   "description": "Starkware Typings",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Pedro Gomes <github.com/pedrouid>",
   "license": "Apache-2.0",
   "keywords": [
