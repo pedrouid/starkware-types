@@ -1,3 +1,9 @@
+export interface AccountParams {
+  layer: string;
+  application: string;
+  index: string;
+}
+
 export interface ETHTokenData {
   quantum: string;
 }
